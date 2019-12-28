@@ -1,0 +1,12 @@
+.vs/
+AccountOwnerServer/bin
+AccountOwnerServer/obj
+AccountOwnerServer/Properties
+Contracts/bin
+Contracts/obj
+Entities/bin
+Entities/obj
+LoggerService/bin
+LoggerService/obj
+Repository/bin
+Repository/obj
